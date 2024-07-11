@@ -6,7 +6,7 @@ export default {
     return {
       slide: ref(1),
       autoplay: ref(true),
-      lorem: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+      lorem: 'Lorem ipsum dolor sit amet'
     }
   }
 }
